@@ -3,6 +3,7 @@ version: ${version}
 main: com.willfp.reforges.ReforgesPlugin
 api-version: 1.17
 authors: [ Auxilor ]
+folia-supported: true
 website: willfp.com
 depend:
   - eco
